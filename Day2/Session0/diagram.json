@@ -25,3 +25,4 @@
       [ "led1:A", "r1:2", "green", [ "v0" ] ]
     ],
     "dependencies": {}
+}
